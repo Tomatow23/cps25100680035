@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cps25100680035</string>
+    <string name="tip_amounts_will_be_displayed_here">Tip Amounts Will be Displayed Here</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+    <string name="valid_input">Enter Bill Amount</string>
+</resources>
