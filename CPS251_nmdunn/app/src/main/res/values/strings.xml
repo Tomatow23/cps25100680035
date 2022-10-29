@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CPS251_nmdunn</string>
+    <string name="output">TextView</string>
+</resources>
